@@ -1,0 +1,16 @@
+PODS:
+  - UascentSmartKit (0.1.0)
+
+DEPENDENCIES:
+  - UascentSmartKit (from `../`)
+
+EXTERNAL SOURCES:
+  UascentSmartKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UascentSmartKit: 21c16e7817b8ba800577d1d0c11ac0696d15ae40
+
+PODFILE CHECKSUM: 0e0b2645f182487f21b5b4606761b1f829e5eb62
+
+COCOAPODS: 1.9.3

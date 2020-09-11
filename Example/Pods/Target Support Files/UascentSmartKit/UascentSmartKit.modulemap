@@ -1,0 +1,6 @@
+framework module UascentSmartKit {
+  umbrella header "UascentSmartKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

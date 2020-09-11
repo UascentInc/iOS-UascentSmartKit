@@ -1,0 +1,22 @@
+{
+  "name": "UascentSmartKit",
+  "version": "0.1.0",
+  "summary": "A short description of UascentSmartKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pengweifu/UascentSmartKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pengweifu": "pengweifu@uascent-iot.com"
+  },
+  "source": {
+    "git": "https://github.com/pengweifu/UascentSmartKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UascentSmartKit/Classes/**/*"
+}
